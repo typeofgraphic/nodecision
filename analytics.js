@@ -5836,7 +5836,9 @@ Segment.prototype.normalize = function(msg){
  */
 
 Segment.prototype.send = function(path, msg, fn){
-  var url = protocol() + '//api.segment.io/v1' + path;
+  //var url = protocol() + '//api.segment.io/v1' + path;
+  // pb.change
+  var url = protocol() + '//localhost:3000/ajs/v1' + path;
   var headers = { 'Content-Type': 'application/json' };
   var fn = fn || noop;
   var self = this;

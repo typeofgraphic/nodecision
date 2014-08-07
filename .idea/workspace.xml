@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f19c8a-5270-4042-a9fb-3f2dbd33e2db" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.js" afterPath="$PROJECT_DIR$/analytics.js" />
     </list>
     <ignored path="nodecision.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +38,8 @@
       <file leaf-file-name="analytics.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/analytics.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.66019416" vertical-offset="476" max-vertical-offset="218059">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.43021584" vertical-offset="98981" max-vertical-offset="218093">
+              <caret line="5840" column="25" selection-start-line="5840" selection-start-column="25" selection-end-line="5840" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -81,6 +81,7 @@
         <option value="$PROJECT_DIR$/raw.json" />
         <option value="$PROJECT_DIR$/node_modules/node-red/raw.json" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/analytics.js" />
       </list>
     </option>
   </component>
@@ -360,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.66019416" vertical-offset="476" max-vertical-offset="218059">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.43021584" vertical-offset="98981" max-vertical-offset="218093">
+          <caret line="5840" column="25" selection-start-line="5840" selection-start-column="25" selection-end-line="5840" selection-end-column="50" />
           <folding />
         </state>
       </provider>
