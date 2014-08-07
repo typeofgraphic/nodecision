@@ -1,0 +1,542 @@
+[
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "test",
+        "timestamp": "2014-07-26T16:42:18.864Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "5290de19-8dd5-43b1-bf07-e220f941a08b",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:45:50.383Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "9s5fwfa2",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "title": "Test page",
+            "url": "https:\/\/typeofgraphic\/",
+            "path": "\/trackbeta",
+            "referrer": "referral.com",
+            "search": ""
+        },
+        "category": null,
+        "name": null,
+        "timestamp": "2014-07-26T16:42:18.866Z",
+        "type": "page",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "00c3b89a-ee27-4a67-a9c0-de3005537d65",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:42:19.168Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "q4pio8y7",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Page",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "path": "\/Documents\/Uni\/IBM\/d3\/action_analytics\/actions.html",
+            "referrer": "",
+            "title": "Action Tracker Beta",
+            "search": "",
+            "url": "http:\/\/localhost:8000\/Documents\/Uni\/IBM\/d3\/action_analytics\/actions.html"
+        },
+        "timestamp": "2014-07-26T16:42:18.860Z",
+        "type": "page",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "f566271b-f048-4f9f-85df-3f5b5d1b60d8",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:42:19.136Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "hpko76j4",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Page",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:42:19.877Z",
+        "timestamp": "2014-07-26T16:42:19.877Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "c6362aa5-6b4c-40a6-96a4-3d2185d34f1f",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:42:19.978Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "3yyv1jup",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:42:20.147Z",
+        "timestamp": "2014-07-26T16:42:20.147Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "be6ca228-d600-486e-9063-a32cac61f000",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:42:20.240Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "uxj8ds2v",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:42:20.900Z",
+        "timestamp": "2014-07-26T16:42:20.009Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "8a6d682b-3a1d-4c26-8385-cfa505794987",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:42:20.910Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "t0q0u2ae",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "test",
+        "timestamp": "2014-07-26T16:54:13.606Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "0b86b8bf-03df-4620-a615-d554038b008e",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:54:14.135Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "cn30iclu",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "title": "Test page",
+            "url": "https:\/\/typeofgraphic\/",
+            "path": "\/trackbeta",
+            "referrer": "referral.com",
+            "search": ""
+        },
+        "category": null,
+        "name": null,
+        "timestamp": "2014-07-26T16:54:13.608Z",
+        "type": "page",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "6dd7609d-844e-454d-9645-81eaa4878d56",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:54:14.366Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "pu1ston6",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Page",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "path": "\/Documents\/Uni\/IBM\/d3\/action_analytics\/actions.html",
+            "referrer": "",
+            "title": "Action Tracker Beta",
+            "search": "",
+            "url": "http:\/\/localhost:8000\/Documents\/Uni\/IBM\/d3\/action_analytics\/actions.html"
+        },
+        "timestamp": "2014-07-26T16:54:13.602Z",
+        "type": "page",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "26abbd5f-f13c-4885-a1b8-110080513448",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:54:14.174Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "rdocdgdn",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Page",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:54:15.970Z",
+        "timestamp": "2014-07-26T16:54:15.970Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "e64c3bc3-cb39-4ce3-9ede-4988eba15fa1",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:54:16.900Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "2yu6vpb0",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:54:16.141Z",
+        "timestamp": "2014-07-26T16:54:16.142Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "143b3ecb-6d89-4d1c-bcb6-b2ec02f32a14",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:54:16.253Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "5jghdfkj",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:54:16.700Z",
+        "timestamp": "2014-07-26T16:54:16.700Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "79db7068-d01d-4224-82bd-7d08ac51564e",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:54:16.815Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "ixm2qr6p",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:54:17.471Z",
+        "timestamp": "2014-07-26T16:54:17.471Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "46b69994-5d07-4762-97e0-05362e07db88",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:56:46.724Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "vhow6p9x",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:54:25.920Z",
+        "timestamp": "2014-07-26T16:54:25.920Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "457763d0-c415-4a5d-beea-1ff8d825c216",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:54:26.340Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "y3abmlev",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    },
+    {
+        "properties": {
+            "action": "click",
+            "category": "category",
+            "label": "label",
+            "value": 5,
+            "agent": "userAgent"
+        },
+        "event": "2014-07-26T16:54:26.900Z",
+        "timestamp": "2014-07-26T16:54:26.090Z",
+        "type": "track",
+        "context": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": {
+                "name": "analytics.js",
+                "version": "2.3.9"
+            },
+            "ip": "109.145.177.174"
+        },
+        "anonymousId": "87c00dc86b927567",
+        "messageId": "85e3f48b-7d1b-47dc-96f4-b093261ed641",
+        "channel": "client",
+        "receivedAt": "2014-07-26T16:54:26.207Z",
+        "projectId": "c6rskrkhq6",
+        "requestId": "sw90oja3",
+        "version": 2,
+        "integrations": {},
+        "options": {
+            "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/35.0.1916.153 Safari\/537.36",
+            "library": "segment.js",
+            "ip": "109.145.177.174",
+            "providers": {}
+        },
+        "action": "Track",
+        "sessionId": "87c00dc86b927567"
+    }
+]
