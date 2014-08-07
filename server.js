@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({
 }));
 
 app.all('*', function(req, res, next) {
-    fs.readFile('raw.json', function (err, data) {
+    fs.readFile('./node_modules/node-red/raw.json', function (err, data) {
         res.locals.tracking = JSON.parse(data);
         next();
     });
