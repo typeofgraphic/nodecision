@@ -67,7 +67,7 @@ app.route('/v1/:var')
 
         requestify.request('http://localhost:3000/api/post/', {
             method: 'POST',
-            body: req.body
+            body: req.body,
 //            headers: {
 //                'X-Forwarded-By': 'me'
 //            },
@@ -78,7 +78,7 @@ app.route('/v1/:var')
 //                username: 'foo',
 //                password: 'bar'
 //            },
-//            dataType: 'json'
+            dataType: 'json'
         })
             .then(function(response) {
                 // get the response body
