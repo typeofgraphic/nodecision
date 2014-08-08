@@ -1,0 +1,27 @@
+{
+  "name": "nodecision",
+  "version": "0.0.1",
+  "description": "Analaytics for decision making and visual analytics",
+  "main": "analytics.js",
+  "dependencies": {
+    "body-parser": "~1.6.1",
+    "bootstrap": "~3.2.0",
+    "express": "~4.8.1",
+    "node-red": "~0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/typeofgraphic/nodecision.git"
+  },
+  "author": "typeofgraphic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typeofgraphic/nodecision/issues"
+  },
+  "homepage": "https://github.com/typeofgraphic/nodecision"
+}
